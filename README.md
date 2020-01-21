@@ -1,6 +1,6 @@
 # .github
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code-of-conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
 *Health files for the umotif-public github organisation*. All github meta files are stored here and automatically linked from all repositories in [umotif-public organization](https://github.com/umotif-public).
 
